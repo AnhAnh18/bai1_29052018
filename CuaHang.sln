@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuaHang", "CuaHang\CuaHang.csproj", "{B8BFA793-14CF-43E6-A404-1F306CEBF0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8BFA793-14CF-43E6-A404-1F306CEBF0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BFA793-14CF-43E6-A404-1F306CEBF0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BFA793-14CF-43E6-A404-1F306CEBF0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BFA793-14CF-43E6-A404-1F306CEBF0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4124583-9B9E-4461-982F-934835275D5A}
+	EndGlobalSection
+EndGlobal

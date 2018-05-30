@@ -1,0 +1,7 @@
+E:\ThucTap\CuaHang\CuaHang\bin\Debug\CuaHang.exe.config
+E:\ThucTap\CuaHang\CuaHang\bin\Debug\CuaHang.exe
+E:\ThucTap\CuaHang\CuaHang\bin\Debug\CuaHang.pdb
+E:\ThucTap\CuaHang\CuaHang\obj\Debug\CuaHang.csprojAssemblyReference.cache
+E:\ThucTap\CuaHang\CuaHang\obj\Debug\CuaHang.csproj.CoreCompileInputs.cache
+E:\ThucTap\CuaHang\CuaHang\obj\Debug\CuaHang.exe
+E:\ThucTap\CuaHang\CuaHang\obj\Debug\CuaHang.pdb
